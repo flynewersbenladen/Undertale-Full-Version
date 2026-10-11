@@ -249,4 +249,4 @@ This repository serves as the official landing page for Undertale. The software 
 **Get the most recent version of Undertale today!**
 
 ---
-**Last updated:** 2026-10-11 16:02:38 UTC
+**Last updated:** 2026-10-11 20:41:42 UTC
